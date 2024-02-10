@@ -1,7 +1,7 @@
 # PL2024
 ## Unidade Curricular
 
-**Nome:** Engenharia WEB
+**Nome:** Processamento de Linguagens
 
 **Sigla:** PL
 
@@ -14,4 +14,4 @@
 **ID:** A98566
 
 **Fotografia:** 
-![Fotografia do aluno](../FotoUM.png)
+![Fotografia do aluno](./FotoUM.png)
