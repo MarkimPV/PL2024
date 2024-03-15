@@ -1,0 +1,73 @@
+{
+    "stock" : [
+    {
+        "cod": "A23",
+        "nome": "água 0.5L",
+        "quant": 8,
+        "preco": 0.7
+    },
+    
+    {
+        "cod": "B12",
+        "nome": "refrigerante lata",
+        "quant": 12,
+        "preco": 1.5
+    },
+    
+    {
+        "cod": "C35",
+        "nome": "batata frita",
+        "quant": 5,
+        "preco": 2.0
+    },
+    
+    {
+        "cod": "D08",
+        "nome": "sanduíche de frango",
+        "quant": 3,
+        "preco": 3.5
+    },
+    
+    {
+        "cod": "E16",
+        "nome": "pizza de queijo",
+        "quant": 2,
+        "preco": 7.0
+    },
+    
+    {
+        "cod": "F49",
+        "nome": "barras de chocolate",
+        "quant": 10,
+        "preco": 1.2
+    },
+    
+    {
+        "cod": "G72",
+        "nome": "caixa de cereal",
+        "quant": 4,
+        "preco": 4.5
+    },
+    
+    {
+        "cod": "H58",
+        "nome": "iogurte natural",
+        "quant": 6,
+        "preco": 0.9
+    },
+    
+    {
+        "cod": "I94",
+        "nome": "salgadinho de milho",
+        "quant": 7,
+        "preco": 1.3
+    },
+    
+    {
+        "cod": "J21",
+        "nome": "maçãs",
+        "quant": 9,
+        "preco": 0.6
+    }
+  ]
+}
